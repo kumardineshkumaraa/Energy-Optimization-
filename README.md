@@ -25,7 +25,7 @@ This project develops an intelligent energy optimization system using machine le
 - Provide interactive elements to allow stakeholders to explore data insights and track efficiency goals effectively.
 
 # System Architecture:
-![Uploading 384577504-fd453f19-ef26-4fd9-a1f9-754286d5437d.png…]()
+<img width="459" height="581" alt="384577504-fd453f19-ef26-4fd9-a1f9-754286d5437d" src="https://github.com/user-attachments/assets/08c705aa-fb8f-42a4-8205-5d75c580913b" />
 
 
 # Output:
